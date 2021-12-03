@@ -66,7 +66,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: snow;
+	background: #151515;
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
@@ -1016,6 +1016,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- 
  */
 .grey-section {
+	background: #ebebeb;
 }
 .grey-section p.lead {
 	color: #7d7d7d;
@@ -1492,6 +1493,7 @@ header{
  * ------------------------------------------------------------------- 
  */
 #about {
+	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
@@ -1791,6 +1793,7 @@ header{
  * ------------------------------------------------------------------- 
  */
 #portfolio {
+	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
@@ -2451,10 +2454,9 @@ header{
  * ------------------------------------------------------------------- 
  */
 footer {
-	background-color: black;
+	padding-bottom: 3rem;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
-	color: white;
 }
 footer a, footer a:visited {
 	color: #FFFFFF;
@@ -2474,6 +2476,7 @@ footer .footer-social {
 	margin: 0;
 	padding: 0;
 	position: relative;
+	top: -.3rem;
 }
 footer .footer-social li {
 	display: inline-block;
@@ -2553,6 +2556,7 @@ footer .copyright span:last-child::after {
 	line-height: inherit;
 }
 #go-top a:hover {
+	background: #000000;
 }
 
 #fc
@@ -2620,7 +2624,7 @@ footer .copyright span:last-child::after {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background-color: snow;
+	background-color: #fcf4f4;
 }
 
 .seh > p:nth-child(1)
