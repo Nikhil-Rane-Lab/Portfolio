@@ -1,0 +1,4 @@
+function resume()
+{
+    alert("hi");
+}
