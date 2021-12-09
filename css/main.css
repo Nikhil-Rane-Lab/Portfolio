@@ -3418,9 +3418,9 @@ margin-bottom: 0px;
 
   #ccdesktop
   {
-	  margin-top: 0%;
+	margin-top: 0%;
 	display: flex;
-	justify-content: flex-start;
+	margin-left: 8%;
   }
 
   #ccdesktop > div
